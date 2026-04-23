@@ -1,2 +1,0 @@
-"# canlihurdafyatlar-" 
-"# canlihurdafyatlar-" 

@@ -1,0 +1,31 @@
+{
+  "updated_at": "2026-04-21 16:00:00",
+  "data": [
+    {
+      "t": "BAKIR HURDASI",
+      "i": [
+        {
+          "n": "Soyulmuş Bakır",
+          "p": 552.15
+        },
+        {
+          "n": "Lama Bakır İmalat",
+          "p": 522.34
+        }
+      ]
+    },
+    {
+      "t": "DEMİR HURDASI",
+      "i": [
+        {
+          "n": "DKP",
+          "p": 12.2
+        },
+        {
+          "n": "Ekstra",
+          "p": 11.17
+        }
+      ]
+    }
+  ]
+}
